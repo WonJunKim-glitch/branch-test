@@ -1,4 +1,6 @@
 first edition
 second edition
 hotfix my solution
+Hotfix team's solution
 add a new feature
+Team upgraded
